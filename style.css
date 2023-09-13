@@ -12,3 +12,20 @@ nav{
     background-color: skyblue;
     font-size: 25px;
 }
+
+footer{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+.footer-left{
+    background-color: black;
+    width: 50%;
+}
+.footer-right{
+    background-color: rgb(197, 48, 48);
+    width: 50%;
+}
